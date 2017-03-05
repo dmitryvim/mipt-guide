@@ -1,5 +1,6 @@
 # Гид по работе с github.com для студентов МФТИ (1, 2 курс)
 
+[Настоящая версия](./README.md)
 [Старая версия](./old.md)
 
 ## Описание
@@ -27,5 +28,5 @@
 
 ### 2017-весна
 
-[примеры с классной работы](https://github.com/dmitryvim/mipt-cpp)
-[домашнее задание](https://github.com/dmitryvim/mipt-2017-spring-hw)
+1. [примеры с классной работы](https://github.com/dmitryvim/mipt-cpp)
+2. [домашнее задание](https://github.com/dmitryvim/mipt-2017-spring-hw)
